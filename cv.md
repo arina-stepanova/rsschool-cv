@@ -47,8 +47,42 @@ And now I'm also taking the RS School's Course «JavaScript/Front-end. Stage#1»
 
 ---
 
+## Code example
+
+This JS code is a simple implementation of a "Magic Eight Ball" game. The program generates random responses to a user's questions, similar to a Magic Eight Ball toy.
+
+```javascript
+var userName = window.prompt("What's your name?");
+
+userName ? alert(`Hello, ${userName}!`) : alert('Hello!');
+
+var userQuestion = window.prompt("What's your question?");
+
+alert(`${userName} asks: ${userQuestion}`);
+
+var randomNumber = Math.floor(Math.random() * 5);
+
+switch (randomNumber) {
+  case 0:
+    alert('Eight Ball says: one hundred percent yes');
+    break;
+  case 1:
+    alert('Eight Ball says: absolutely not');
+    break;
+  case 2:
+    alert('Eight Ball says: the probability is minimal, but there is');
+    break;
+  case 3:
+    alert('Eight Ball says: the probability is very high');
+    break;
+  default:
+    alert('Eight Ball says: for now, I can not say it');
+    break;
+}
+```
+---
+
 ## Languages
 
  - Russian *(native)*
  - English *(pre-intermediate)*
-
