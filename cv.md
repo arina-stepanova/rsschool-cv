@@ -6,6 +6,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/arina-stepanova-073ab6268/) <br>
 [GitHub](https://github.com/arina-stepanova) <br>
+**Discord:** arina-stepanova <br>
 **Telegram:** @arinuggets <br>
 **E-mail:** <mrs.arina.stepanova@gmail.com> <br>
 
@@ -53,15 +54,12 @@ This JS code is a simple implementation of a "Magic Eight Ball" game. The progra
 
 ```javascript
 var userName = window.prompt("What's your name?");
-
 userName ? alert(`Hello, ${userName}!`) : alert('Hello!');
 
 var userQuestion = window.prompt("What's your question?");
-
 alert(`${userName} asks: ${userQuestion}`);
 
 var randomNumber = Math.floor(Math.random() * 5);
-
 switch (randomNumber) {
   case 0:
     alert('Eight Ball says: one hundred percent yes');
