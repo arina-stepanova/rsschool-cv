@@ -27,9 +27,9 @@ About myself as a person, I can say I'm a sociable, friendly and tolerant. I lik
 
 I have been studying front-end development for about 3 months. During this time, I worked out on my own for some time and completed three mini-courses on the Codecademy platform.
 
-![certificate_1](img/LearnHTMLCourse.png)
-![certificate_2](img/LearnCSSCourse.png)
-![certificate_3](img/LearnJSCourse.png)
+![certificate_HTML](img/Cert_HTML.jpeg)
+![certificate_CSS](img/Cert_CSS.jpeg)
+![certificate_JS](img/Cert_JS.jpeg)
 
 At the moment, I am taking a more complete and detailed course on Codecademy called "Front-end Engineer. Career path" *(>30%)*.
 
