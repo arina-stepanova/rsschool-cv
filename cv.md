@@ -24,20 +24,6 @@ About myself as a person, I can say I'm a sociable, friendly and tolerant. I lik
 
 ---
 
-## Courses
-
-I have been studying front-end development for about 3 months. During this time, I worked out on my own for some time and completed three mini-courses on the Codecademy platform.
-
-![certificate_HTML](img/Cert_HTML.jpeg)
-![certificate_CSS](img/Cert_CSS.jpeg)
-![certificate_JS](img/Cert_JS.jpeg)
-
-At the moment, I am taking a more complete and detailed course on Codecademy called "Front-end Engineer. Career path" *(>30%)*.
-
-And now I'm also taking the RS School's Course «JavaScript/Front-end. Stage#1».
-
----
-
 ## Skills
 
 - HTML5, CSS3, JavaScript
@@ -78,9 +64,36 @@ switch (randomNumber) {
     break;
 }
 ```
+
+---
+
+## Experience
+
+I have experience gained from self-study and online courses. Some of my work can be viewed at the link below:
+
+https://arina-stepanova.github.io/
+
+*Some other examples of work are available in the "portfolio" section.*
+
+---
+
+## Courses
+
+I have been studying front-end development for about 3 months. During this time, I worked out on my own for some time and completed three mini-courses on the Codecademy platform.
+
+![certificate_HTML](img/Cert_HTML.jpeg)
+![certificate_CSS](img/Cert_CSS.jpeg)
+![certificate_JS](img/Cert_JS.jpeg)
+
+At the moment, I'm taking a more complete and detailed course on Codecademy called "Front-end Engineer. Career path" *(>30%)*.
+
+And now I'm also taking the RS School's Course «JavaScript/Front-end. Stage#1».
+
 ---
 
 ## Languages
 
  - Russian *(native)*
  - English *(pre-intermediate)*
+
+I study English with a tutor and a speaking club with a native speaker. I take online tests, watch educational videos on YouTube and write my thoughts in English in a diary every day.
