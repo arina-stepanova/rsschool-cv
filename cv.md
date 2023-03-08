@@ -71,7 +71,7 @@ switch (randomNumber) {
 
 I have experience gained from self-study and online courses. Some of my work can be viewed at the link below:
 
-https://arina-stepanova.github.io/
+<https://arina-stepanova.github.io/>
 
 *Some other examples of work are available in the "portfolio" section.*
 
